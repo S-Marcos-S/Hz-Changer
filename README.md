@@ -159,7 +159,6 @@ Se você encontrar problemas ou tiver sugestões:
 
 - Comunidade Android por feedback e sugestões
 - Desenvolvedores de ferramentas root (Magisk, KernelSU)
-- Contribuidores do Material Design
 
 ---
 
