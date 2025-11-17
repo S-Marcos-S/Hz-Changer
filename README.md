@@ -9,7 +9,6 @@ Um aplicativo Android que permite alterar a taxa de atualização (refresh rate)
 - **Widget Rápido**: Controle direto da tela inicial
 - **Quick Settings Tile**: Acesso rápido pelas configurações rápidas
 - **Multilíngue**: Suporte a Português e Inglês
-- **Material Design**: Interface seguindo as diretrizes do Material Design 3
 
 ## ⚙️ Requisitos
 
