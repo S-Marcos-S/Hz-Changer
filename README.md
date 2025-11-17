@@ -158,7 +158,7 @@ Se você encontrar problemas ou tiver sugestões:
 ## 🙏 Agradecimentos
 
 - Comunidade Android por feedback e sugestões
-- Desenvolvedores de ferramentas root (Magisk, SuperSU)
+- Desenvolvedores de ferramentas root (Magisk, KernelSU)
 - Contribuidores do Material Design
 
 ---
