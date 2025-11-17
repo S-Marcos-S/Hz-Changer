@@ -83,7 +83,6 @@ app/
 ### Tecnologias Utilizadas
 
 - **Kotlin** - Linguagem principal
-- **Material Design 3** - Componentes de interface
 - **ConstraintLayout** - Layout responsivo
 - **SharedPreferences** - Armazenamento de configurações
 - **App Widget Provider** - Widget da tela inicial
