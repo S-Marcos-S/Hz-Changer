@@ -163,4 +163,4 @@ Se você encontrar problemas ou tiver sugestões:
 
 ---
 
-**⚠️ Disclaimer**: Este app requer root e modifica configurações do sistema. Use por sua conta e risco. Os desenvolvedores não se responsabilizam por danos ao dispositivo.
+**⚠️ Disclaimer**: Este app requer root e modifica configurações do sistema. Use por sua conta e risco.
